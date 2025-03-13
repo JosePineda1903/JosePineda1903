@@ -162,7 +162,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pinedaortega2022@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-   <a href="https://www.instagram.com/tuusuario" target="_blank">
+   <a href="https://www.instagram.com/jose__vkl?igsh=YzVuamhmeXNxdHFj" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
 </p>
