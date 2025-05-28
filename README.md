@@ -8,7 +8,7 @@
 
 👯 Busco colaborar en proyectos con Django, React y me adapto facilmente a cualquier cambio (Me Adapto a cualquier tecnologia si es necesario.😉)
 
-🤝 Busco ayuda con infraestructura en la nube y despliegue eficiente en AWS
+🤝 Busco ayudar con infraestructura en la nube y despliegue eficiente en AWS
 
 💬 Pregúntame sobre Django, PostgreSQL, integración IoT con ESP32 y seguridad en aplicaciones web
 
